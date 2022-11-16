@@ -1,3 +1,3 @@
 # gitlearning-
-learning github 
+learning githu 
 familiarisation with git hub 
